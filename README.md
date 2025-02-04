@@ -33,3 +33,7 @@ Este dataset es ampliamente utilizado en el área de **sistemas de recomendació
    print(movies.head())
    print(users.head())
    print(ratings.head())
+
+   
+
+
